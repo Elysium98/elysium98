@@ -16,7 +16,7 @@
     width="40"
 /></a>
 
-<br /><br />
+<br /><br /><br />
 <h2>Frontend</h2>
 
 <p align="left">
