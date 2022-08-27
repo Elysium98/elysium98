@@ -9,7 +9,7 @@
 - 📫 How to reach me: **sirbu.paul98@gmail.com** 
 - 📷 Checkout my <a href="https://www.flickr.com/people/elysium98/">photography</a>
 
-- <a href="https://linkedin.com/in/rishav-chanda-b89a791b3"><img
+- <a href="https://www.linkedin.com/in/sirbu-alexandru-paul/"><img
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
     height="30"
